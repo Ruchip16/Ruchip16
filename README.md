@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchip16&label=Profile%20views&color=0e75b6&style=flat" alt="ruchip16" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchip16" alt="ruchip16" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/ruchicodess" target="blank"><img src="https://img.shields.io/twitter/follow/ruchicodess?logo=twitter&style=for-the-badge" alt="ruchicodess" /></a> </p>
 
 - 🔭 I’m currently working on [ResumeBuilder](https://github.com/Ruchip16/Resume-Builder)
 
-- 👯 Contributing to OSS at [Moja Global , Hack-oV8 (Script Foundation)](https://github.com/Ruchip16/community-website,)
+- 👯 Open-Source contributor at [Moja Global , Hack-oV8 (Script Foundation)](https://github.com/Ruchip16/community-website,)
 
 - 👨‍💻 All of my projects are available at [https://ruchipakhle-portfolio.netlify.app/](https://ruchipakhle-portfolio.netlify.app/)
 
-- 💬 Ask me about **react and javascript**
+- 💬 Ask me about **react, javascript and anything under the sun**
 
 - 📫 How to reach me **ruchipakhle@gmail.com**
 
