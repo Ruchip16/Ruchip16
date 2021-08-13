@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchip16&label=Profile%20views&color=0e75b6&style=flat" alt="ruchip16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchip16" alt="ruchip16" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ruchicodess" target="blank"><img src="https://img.shields.io/twitter/follow/ruchicodess?logo=twitter&style=for-the-badge" alt="ruchicodess" /></a> </p>
 
 - 🔭 I’m currently working on [ResumeBuilder](https://github.com/Ruchip16/Resume-Builder)
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchip16&show_icons=true&locale=en" alt="ruchip16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchip16&" alt="ruchip16" /></p>
+
