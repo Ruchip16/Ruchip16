@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchi Pakhle</h1>
+<h1 align="center">Hey 👋, I'm Ruchi Pakhle</h1>
 <h3 align="center">A Passionate Coder, MERN Developer & your github friend :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchip16&label=Profile%20views&color=0e75b6&style=flat" alt="ruchip16" /> </p>
@@ -27,6 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchip16&show_icons=true&locale=en&layout=compact" alt="ruchip16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchip16&show_icons=true&locale=en" alt="ruchip16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchip16&" alt="ruchip16" /></p>
 
