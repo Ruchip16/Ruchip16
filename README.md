@@ -26,7 +26,7 @@
 
 [![Ruchi's github stats](https://github-readme-stats.vercel.app/api?username=Ruchip16&count_private=true&show_icons=true&theme=omni&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchip16&show_icons=true&locale=en&layout=compact&theme=omni" alt="ruchip16" /></p>
