@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ruchi Pakhle</h1>
-<h3 align="center">A curious developer trying to figure out my way through web development & open-source :)</h3>
+<h3 align="center">A curious developer trying to figure out my way through web development & open-source 👩‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchip16&label=Profile%20views&color=0e75b6&style=flat" alt="ruchip16" /> </p>
 
@@ -38,14 +38,6 @@
 ### Watch my contribution graph get eaten up by the snake 🐍</h2>
 
 ![ruchis snake gif](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.gif)
-
-<!-- 
-[![Ruchi's github stats](https://github-readme-stats.vercel.app/api?username=Ruchip16&count_private=true&show_icons=true&theme=omni&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni) -->
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchip16&show_icons=true&locale=en&layout=compact&theme=omni" alt="ruchip16" /></p> -->
 
 
  
