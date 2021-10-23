@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/ruchicodess" target="blank"><img src="https://img.shields.io/twitter/follow/ruchicodess?logo=twitter&style=for-the-badge" alt="ruchicodess" /></a> </p>
 
-- 🔭 I’m currently working on [ResumeBuilder](https://github.com/Ruchip16/Resume-Builder)
+- 🔭 I’m currently working on [ResumeBuilder](https://github.com/Ruchip16/Resume-Builder) ✍️
 
-- 👯 Open-Source contributor at [Moja Global , Hack-oV8 (Script Foundation)](https://github.com/Ruchip16/community-website,)
+- 👯 Open-Source contributor at [Moja Global](https://github.com/moja-global/moja_global_docs) and [HackO-oV8](https://github.com/scriptfoundation/HACK-OV8) ⭐
 
-- 👨‍💻 All of my projects are available at [https://ruchipakhle-portfolio.netlify.app/](https://ruchipakhle-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ruchipakhle-portfolio.netlify.app/](https://ruchipakhle-portfolio.netlify.app/) 📃
 
-- 💬 Ask me about **react, javascript and anything under the sun**
+- 💬 Ask me about **react, javascript and anything under the sun** ⚛️
 
-- 📫 How to reach me **ruchipakhle@gmail.com**
+- 📫 How to reach me **ruchipakhle@gmail.com** 📧
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 <br>
 </br>
 
-### Watch my contribution graph get eaten up by the snake 🐍</h2>
+### Just tryingg to be consistent here 😅🐍</h2>
 
 ![ruchis snake gif](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.gif)
 
