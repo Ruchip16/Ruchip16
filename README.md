@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ruchicodess" target="blank"><img src="https://img.shields.io/twitter/follow/ruchicodess?logo=twitter&style=for-the-badge" alt="ruchicodess" /></a> </p>
 
-- 🔭 I’m currently working on [ResumeBuilder](https://github.com/Ruchip16/Resume-Builder) ✍️
+- 🔭 I’m currently working on [Best.Tweets](https://github.com/Ruchip16/Best.Tweets) ✍️
 
 - 👯 Open-Source contributor at [Moja Global](https://github.com/moja-global/moja_global_docs) and [HackO-oV8](https://github.com/scriptfoundation/HACK-OV8) ⭐
 
