@@ -41,7 +41,7 @@
 <a align= "center" href="https://github.com/ruchip16">
   <img alt= "stats card" height="270px" width="350" src="https://github-readme-stats.vercel.app/api?username=Ruchip16&count_private=true&show_icons=true&theme=omni&hide_rank=false" />
 <!--   <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
-  <img align="right" height="270px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni" /> </a>
+<!--   <img align="right" height="270px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni" /> </a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchip16&show_icons=true&locale=en&layout=compact&theme=omni" alt="ruchip16" /></a>
 </p>
 
