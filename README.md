@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchip16&label=Profile%20views&color=0e75b6&style=flat" alt="ruchip16" /> </p>
 
+ <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" />
+ 
 <p align="left"> <a href="https://twitter.com/ruchicodess" target="blank"><img src="https://img.shields.io/twitter/follow/ruchicodess?logo=twitter&style=for-the-badge" alt="ruchicodess" /></a> </p>
 
 - 🔭 I’m currently working on [Best.Tweets](https://github.com/Ruchip16/Best.Tweets) ✍️
@@ -44,7 +46,7 @@
 <p>
 <a align= "center" href="https://github.com/ruchip16">
   <img alt= "stats card" height="270px" width="350" src="https://github-readme-stats.vercel.app/api?username=Ruchip16&count_private=true&show_icons=true&theme=omni&hide_rank=false" />
-  <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" />
+<!--   <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" /> -->
   <img align="right" height="270px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni" /> </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchip16&show_icons=true&locale=en&layout=compact&theme=omni" alt="ruchip16" /></a>
 </p>
