@@ -44,12 +44,13 @@
 <p>
 <a align= "center" href="https://github.com/ruchip16">
   <img alt= "stats card" height="270px" width="350" src="https://github-readme-stats.vercel.app/api?username=Ruchip16&count_private=true&show_icons=true&theme=omni&hide_rank=false" />
-  <img align="right" height="270px" width="350" src="https://cdn.dribbble.com/users/5124/screenshots/12296236/media/63d867b0df7a059f1f56a7b894f7d5a7.gif" /> 
+  <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" />
   <img align="right" height="270px" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchip16&theme=omni" /> </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchip16&show_icons=true&locale=en&layout=compact&theme=omni" alt="ruchip16" /></a>
 </p>
 
 <br>
+
 </br>
 
 ### Just tryingg to be consistent here 🐍 </h2>
