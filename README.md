@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Best.Tweets](https://github.com/Ruchip16/Best.Tweets) ✍️
 
-- 👯 Open-Source contributor at [Moja Global](https://github.com/moja-global/moja_global_docs) and [HackO-oV8](https://github.com/scriptfoundation/HACK-OV8) ⭐
+- 👯 Open-Source contributor at [Moja Global](https://github.com/moja-global/moja_global_docs) and [Open-Horizon](https://github.com/open-horizon/) ⭐
 
 - 👨‍💻 All of my projects are available at [https://ruchipakhle-portfolio.netlify.app/](https://ruchipakhle-portfolio.netlify.app/) 📃
 
