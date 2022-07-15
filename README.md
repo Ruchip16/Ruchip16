@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ruchipakhle-portfolio.netlify.app/](https://ruchipakhle-portfolio.netlify.app/) 📃
 
-- 💬 Ask me about **react, javascript and anything under the sun** ⚛️
-
 - 📫 How to reach me **ruchipakhle@gmail.com** 📧
 
 <h3 align="left">Connect with me</h3>
