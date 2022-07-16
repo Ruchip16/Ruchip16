@@ -9,9 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [Best.Tweets](https://github.com/Ruchip16/Best.Tweets) ✍️ -->
 
-- 👯 Open-Source contributor at [Open-Horizon](https://github.com/open-horizon/) ⭐
-
-- 👨‍💻 All of my projects are available at [https://ruchipakhle-portfolio.netlify.app/](https://ruchipakhle-portfolio.netlify.app/) 📃
+- 👯 Open-Source contributor at [Open-Horizon](https://github.com/open-horizon/), [AsyncAPI](https://github.com/asyncapi)⭐
 
 - 📫 How to reach me **ruchipakhle@gmail.com** 📧
 
