@@ -38,6 +38,7 @@
 
 - [Building online community](https://scholarshiptrack.org/2021/08/23/how-to-build-your-online-community/) ✍️
 - [Highest paying jobs in tech](https://scholarshiptrack.org/2021/10/17/the-top-3-most-desired-highest-paying-jobs-in-the-tech-industry-for-2021/) 🛍️
+- [My LFX'22 Mentorship Experience](https://medium.com/@ruchipakhle/lfx22-mentorship-experience-with-open-horizon-1df5f0127122)
 
 <p>
 <a align= "center" href="https://github.com/ruchip16">
