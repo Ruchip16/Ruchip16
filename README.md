@@ -54,11 +54,9 @@
 
 ### Just tryingg to be consistent here, so that the snake would get more to eat 🐍 </h2>
 
-<!-- ![ruchis snake gif](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.gif) -->
+![ruchis snake gif](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.gif)
 
-<p align="center">
-  <img src="https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
 
  
