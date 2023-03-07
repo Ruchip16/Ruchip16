@@ -52,7 +52,7 @@
 
 </br>
 
-### Just tryingg to be consistent here, so that the snake would get more to eat 🐍 </h2>
+### Just tryingg to be consistent here🐍 </h2>
 
 ![ruchis snake gif](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.gif)
 
