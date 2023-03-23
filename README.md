@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ruchi Pakhle</h1>
-<h3 align="center"> Passionate open-source developer & enthusiastic about every opportunity I get in life 👩‍💻 </h3> 
+<h3 align="center"> Passionate open-source developer who is enthusiastic about every opportunity I get in life 👩‍💻 </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchip16&label=Profile%20views&color=0e75b6&style=flat" alt="ruchip16" /> </p>
 
