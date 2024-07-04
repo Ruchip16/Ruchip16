@@ -52,10 +52,6 @@
 
 </br>
 
-### Just tryingg to be consistent here🐍 </h2>
-
-![ruchis snake gif](https://github.com/Ruchip16/Ruchip16/blob/output/github-contribution-grid-snake.gif)
-
 
  
 
