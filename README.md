@@ -19,21 +19,6 @@
 <a href="https://www.linkedin.com/in/ruchi-pakhle-a0a5311b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruchi-pakhle-a0a5311b0/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
-
 <h3 align="left">Read and catch up on content📚</h3>
 
 - [Building online community](https://scholarshiptrack.org/2021/08/23/how-to-build-your-online-community/) ✍️
